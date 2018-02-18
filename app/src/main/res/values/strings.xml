@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TenerifeCard</string>
+    <string name="email">teide_tours@tenerife.com</string>
+    <string name="number">+34 123 456 789</string>
+    <string name="mainText">Teide Tours</string>
+    <string name="promo">Come with us to the top!</string>
+</resources>
